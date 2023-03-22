@@ -59,6 +59,8 @@ To deploy this project run the code with given circuit in Tinkercad.
 
 ![circuit](https://user-images.githubusercontent.com/84678828/226823460-51a574f4-6206-4837-af93-2828284b1f92.png)
 
+![product-img](https://user-images.githubusercontent.com/84678828/226823823-67892408-aa97-4d3c-b4e9-055e36701bc5.png)
+
 
 
 ## Tech Stack
