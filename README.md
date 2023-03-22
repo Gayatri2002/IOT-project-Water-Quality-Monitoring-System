@@ -24,6 +24,8 @@ Based on the measured result, the proposed WQM system can successfully analyze t
 For running this project on your system, you need to have Arduino code editor also have Tinkercad account. As this project i made in Tinkercad because the project is simulation based and not hardware.
 
 1. Built a circuit in Tinkercad as shown in the image
+   ![circuit](https://user-images.githubusercontent.com/84678828/226823460-51a574f4-6206-4837-af93-2828284b1f92.png)
+
 
 2. Clone the repo
    ```sh
@@ -55,12 +57,8 @@ To deploy this project run the code with given circuit in Tinkercad.
 
 ## images
 
-![Screenshot (577)](https://user-images.githubusercontent.com/84678828/170862212-f06de3a5-f493-438e-8a67-c56efc9e7eff.png)
+![circuit](https://user-images.githubusercontent.com/84678828/226823460-51a574f4-6206-4837-af93-2828284b1f92.png)
 
-
-![website performance ss](https://user-images.githubusercontent.com/84678828/170862237-b259021e-4398-4092-9bb1-2d61282958eb.png)
-
-![sales ss](https://user-images.githubusercontent.com/84678828/170862246-f80f2a0d-6065-4b96-bb8f-73d1cff4634a.png)
 
 
 ## Tech Stack
